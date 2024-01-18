@@ -1,6 +1,6 @@
 body:
   - type: textarea
-    id: info
+    id: tmate
     attributes:
       label: "[Optional] How do you use tmate-ssh-server?"
     validations:
